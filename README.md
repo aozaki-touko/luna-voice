@@ -4,7 +4,7 @@
 1. 从[我的百度网盘](https://pan.baidu.com/s/1LNewbPI7-IGQfBj8xiPLYQ?pwd=1234)下载露娜的声音
 2. 解压到wavs文件夹
 3. 配置相关环境
-4. 下载NVIDIA的预训练模型[这里]( [pretrained model](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing))
+4. 下载NVIDIA的预训练模型[这里](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)
 5. 放到文件夹
 6. 打开train.ipynb训练
 7. 下载NVIDIA的 [WaveGlow model](https://drive.google.com/open?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF)
