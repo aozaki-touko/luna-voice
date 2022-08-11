@@ -3,7 +3,7 @@
 
 1. 从[我的百度网盘](https://pan.baidu.com/s/1LNewbPI7-IGQfBj8xiPLYQ?pwd=1234)下载露娜的声音
 2. 解压到wavs文件夹
-3. 配置相关环境
+3. 配置相关环境(cuda、TensorFlow、pytorch)
 4. 下载NVIDIA的预训练模型[这里](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)
 5. 放到文件夹
 6. 打开train.ipynb训练
@@ -13,6 +13,10 @@
 ## 补充
 
 作者4gb显存的显卡没扛住训练，希望有好心人继续训下去:cry:
+
+8月11日，经群友点拨，只需修改./hparams.py 的batch_size即可
+
+
 
 ## 感谢
 
