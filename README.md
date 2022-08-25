@@ -18,7 +18,7 @@
 
 使用[garbro](https://github.com/morkt/GARbro)和[asset studio](https://github.com/Perfare/AssetStudio)对近月1进行拆包
 
-所有资源均已分享到[百度网盘](https://pan.baidu.com/s/1X0oT8_IPQJ9Tcp_Po3VN-A?pwd=1234)
+所有资源均已分享到[百度网盘](https://pan.baidu.com/s/1V2fyJ7nB2ZoU8Kf6DaxO-Q?pwd=1234)
 
 ## 补充
 
